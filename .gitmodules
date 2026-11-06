@@ -1,0 +1,132 @@
+[submodule "01_Aspace_Core_Legacy/Aspace_OS-V4"]
+	path = 01_Aspace_Core_Legacy/Aspace_OS-V4
+	url = https://github.com/Amdkn/Aspace_OS-V4.git
+[submodule "01_Aspace_Core_Legacy/Aspace-OS-V4.1-Putain-de-Jumeau-Numerique"]
+	path = 01_Aspace_Core_Legacy/Aspace-OS-V4.1-Putain-de-Jumeau-Numerique
+	url = https://github.com/Amdkn/Aspace-OS-V4.1-Putain-de-Jumeau-Numerique.git
+[submodule "01_Aspace_Core_Legacy/Aspace_OS_V3"]
+	path = 01_Aspace_Core_Legacy/Aspace_OS_V3
+	url = https://github.com/Amdkn/Aspace_OS_V3.git
+[submodule "01_Aspace_Core_Legacy/a_space_os"]
+	path = 01_Aspace_Core_Legacy/a_space_os
+	url = https://github.com/Amdkn/a_space_os.git
+[submodule "01_Aspace_Core_Legacy/aspace_amiral"]
+	path = 01_Aspace_Core_Legacy/aspace_amiral
+	url = https://github.com/Amdkn/aspace_amiral.git
+[submodule "01_Aspace_Core_Legacy/aspace_a0_amadeus"]
+	path = 01_Aspace_Core_Legacy/aspace_a0_amadeus
+	url = https://github.com/Amdkn/aspace_a0_amadeus.git
+[submodule "01_Aspace_Core_Legacy/aspace_a0_amadeus_cockpit_v0"]
+	path = 01_Aspace_Core_Legacy/aspace_a0_amadeus_cockpit_v0
+	url = https://github.com/Amdkn/aspace_a0_amadeus_cockpit_v0.git
+[submodule "01_Aspace_Core_Legacy/aspace-ui-core"]
+	path = 01_Aspace_Core_Legacy/aspace-ui-core
+	url = https://github.com/Amdkn/aspace-ui-core.git
+[submodule "01_Aspace_Core_Legacy/aspace-v0.7-ui-core"]
+	path = 01_Aspace_Core_Legacy/aspace-v0.7-ui-core
+	url = https://github.com/Amdkn/aspace-v0.7-ui-core.git
+[submodule "01_Aspace_Core_Legacy/Amdkn-aspace-cockpit-vps"]
+	path = 01_Aspace_Core_Legacy/Amdkn-aspace-cockpit-vps
+	url = https://github.com/Amdkn/Amdkn-aspace-cockpit-vps.git
+[submodule "01_Aspace_Core_Legacy/A-Space-OS-V0-Core-Client"]
+	path = 01_Aspace_Core_Legacy/A-Space-OS-V0-Core-Client
+	url = https://github.com/Amdkn/A-Space-OS-V0-Core-Client.git
+[submodule "01_Aspace_Core_Legacy/Planetary-OS"]
+	path = 01_Aspace_Core_Legacy/Planetary-OS
+	url = https://github.com/Amdkn/Planetary-OS.git
+[submodule "01_Aspace_Core_Legacy/Agent-OS"]
+	path = 01_Aspace_Core_Legacy/Agent-OS
+	url = https://github.com/Amdkn/Agent-OS.git
+[submodule "01_Aspace_Core_Legacy/Agent-OS-Desktop"]
+	path = 01_Aspace_Core_Legacy/Agent-OS-Desktop
+	url = https://github.com/Amdkn/Agent-OS-Desktop.git
+[submodule "01_Aspace_Core_Legacy/Life-OS-2026"]
+	path = 01_Aspace_Core_Legacy/Life-OS-2026
+	url = https://github.com/Amdkn/Life-OS-2026.git
+[submodule "02_OMK_Office_Legacy/Business-Office-3-OS"]
+	path = 02_OMK_Office_Legacy/Business-Office-3-OS
+	url = https://github.com/Amdkn/Business-Office-3-OS.git
+[submodule "02_OMK_Office_Legacy/BusinessOS"]
+	path = 02_OMK_Office_Legacy/BusinessOS
+	url = https://github.com/Amdkn/BusinessOS.git
+[submodule "02_OMK_Office_Legacy/The-OMK-Mobile-Back-Office"]
+	path = 02_OMK_Office_Legacy/The-OMK-Mobile-Back-Office
+	url = https://github.com/Amdkn/The-OMK-Mobile-Back-Office.git
+[submodule "02_OMK_Office_Legacy/The-OMK-Office1.0-JaaS"]
+	path = 02_OMK_Office_Legacy/The-OMK-Office1.0-JaaS
+	url = https://github.com/Amdkn/The-OMK-Office1.0-JaaS.git
+[submodule "02_OMK_Office_Legacy/The-OMK-Office-V1-JaaS-Landing-Site-Web"]
+	path = 02_OMK_Office_Legacy/The-OMK-Office-V1-JaaS-Landing-Site-Web
+	url = https://github.com/Amdkn/The-OMK-Office-V1-JaaS-Landing-Site-Web.git
+[submodule "02_OMK_Office_Legacy/The-Office-OS-Site"]
+	path = 02_OMK_Office_Legacy/The-Office-OS-Site
+	url = https://github.com/Amdkn/The-Office-OS-Site.git
+[submodule "02_OMK_Office_Legacy/JaaS-V1-Mobile-OS"]
+	path = 02_OMK_Office_Legacy/JaaS-V1-Mobile-OS
+	url = https://github.com/Amdkn/JaaS-V1-Mobile-OS.git
+[submodule "02_OMK_Office_Legacy/01-OMK-Business-OS"]
+	path = 02_OMK_Office_Legacy/01-OMK-Business-OS
+	url = https://github.com/Amdkn/01-OMK-Business-OS.git
+[submodule "02_OMK_Office_Legacy/00-omk-saas-os"]
+	path = 02_OMK_Office_Legacy/00-omk-saas-os
+	url = https://github.com/Amdkn/00-omk-saas-os.git
+[submodule "02_OMK_Office_Legacy/00-omk-nexus-landing-en"]
+	path = 02_OMK_Office_Legacy/00-omk-nexus-landing-en
+	url = https://github.com/Amdkn/00-omk-nexus-landing-en.git
+[submodule "02_OMK_Office_Legacy/01-OMK-Service-Landing-Page"]
+	path = 02_OMK_Office_Legacy/01-OMK-Service-Landing-Page
+	url = https://github.com/Amdkn/01-OMK-Service-Landing-Page.git
+[submodule "02_OMK_Office_Legacy/business-pulse"]
+	path = 02_OMK_Office_Legacy/business-pulse
+	url = https://github.com/Amdkn/business-pulse.git
+[submodule "03_RILCOT_Alikaly_Holding/RILCOT-OS"]
+	path = 03_RILCOT_Alikaly_Holding/RILCOT-OS
+	url = https://github.com/Amdkn/RILCOT-OS.git
+[submodule "03_RILCOT_Alikaly_Holding/RILCOT-OS-V0"]
+	path = 03_RILCOT_Alikaly_Holding/RILCOT-OS-V0
+	url = https://github.com/Amdkn/RILCOT-OS-V0.git
+[submodule "03_RILCOT_Alikaly_Holding/03-RILCOT-Members-OS"]
+	path = 03_RILCOT_Alikaly_Holding/03-RILCOT-Members-OS
+	url = https://github.com/Amdkn/03-RILCOT-Members-OS.git
+[submodule "03_RILCOT_Alikaly_Holding/03-RILCOT-Community-OS"]
+	path = 03_RILCOT_Alikaly_Holding/03-RILCOT-Community-OS
+	url = https://github.com/Amdkn/03-RILCOT-Community-OS.git
+[submodule "03_RILCOT_Alikaly_Holding/04-Alikaly-Bana-Holding"]
+	path = 03_RILCOT_Alikaly_Holding/04-Alikaly-Bana-Holding
+	url = https://github.com/Amdkn/04-Alikaly-Bana-Holding.git
+[submodule "03_RILCOT_Alikaly_Holding/04-Alikaly-Bana-OS"]
+	path = 03_RILCOT_Alikaly_Holding/04-Alikaly-Bana-OS
+	url = https://github.com/Amdkn/04-Alikaly-Bana-OS.git
+[submodule "03_RILCOT_Alikaly_Holding/alykaly-os-V2"]
+	path = 03_RILCOT_Alikaly_Holding/alykaly-os-V2
+	url = https://github.com/Amdkn/alykaly-os-V2.git
+[submodule "03_RILCOT_Alikaly_Holding/Kalibana"]
+	path = 03_RILCOT_Alikaly_Holding/Kalibana
+	url = https://github.com/Amdkn/Kalibana.git
+[submodule "04_Agencies_Client_Projects/00-AaaS-Agency-Garden"]
+	path = 04_Agencies_Client_Projects/00-AaaS-Agency-Garden
+	url = https://github.com/Amdkn/00-AaaS-Agency-Garden.git
+[submodule "04_Agencies_Client_Projects/Agency-as-a-Service"]
+	path = 04_Agencies_Client_Projects/Agency-as-a-Service
+	url = https://github.com/Amdkn/Agency-as-a-Service.git
+[submodule "04_Agencies_Client_Projects/00-Solaris"]
+	path = 04_Agencies_Client_Projects/00-Solaris
+	url = https://github.com/Amdkn/00-Solaris.git
+[submodule "04_Agencies_Client_Projects/02-ABC-OS"]
+	path = 04_Agencies_Client_Projects/02-ABC-OS
+	url = https://github.com/Amdkn/02-ABC-OS.git
+[submodule "04_Agencies_Client_Projects/02-ABC-FrontEnd"]
+	path = 04_Agencies_Client_Projects/02-ABC-FrontEnd
+	url = https://github.com/Amdkn/02-ABC-FrontEnd.git
+[submodule "04_Agencies_Client_Projects/05-Marina-Landing-Page"]
+	path = 04_Agencies_Client_Projects/05-Marina-Landing-Page
+	url = https://github.com/Amdkn/05-Marina-Landing-Page.git
+[submodule "04_Agencies_Client_Projects/05-Marina-BOS"]
+	path = 04_Agencies_Client_Projects/05-Marina-BOS
+	url = https://github.com/Amdkn/05-Marina-BOS.git
+[submodule "04_Agencies_Client_Projects/KBS-CORE"]
+	path = 04_Agencies_Client_Projects/KBS-CORE
+	url = https://github.com/Amdkn/KBS-CORE.git
+[submodule "04_Agencies_Client_Projects/mspace-v1-offline"]
+	path = 04_Agencies_Client_Projects/mspace-v1-offline
+	url = https://github.com/Amdkn/mspace-v1-offline.git
