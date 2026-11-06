@@ -1,11 +1,11 @@
-# Aspace OS V4 Archive (V0 — V4.1)
+# Aspace OS Archive (V0 — V4.1)
 
 > **Souveraineté & Continuité Historique** : Ce dépôt constitue l'archive officielle de consolidation de l'ensemble des dépôts et projets antérieurs d'**Amadou Kone (`human:amdkn`)** non reliés en tant que forks actifs à **Aspace OS V5**.
 
 ## Statut & Rôle dans l'Architecture 2026
 
 - **Aspace OS V5 (`Aspace_OS_V5`)** : Le cœur souverain actif en production (Software Factory, WikiLLM, 3 OS 578 Holons, 26 forks sous-modules actifs).
-- **Aspace OS V4 Archive (`Aspace_OS_V4_Archive`)** : Le musée et registre immuable (44 dépôts patrimoniaux classés et préservés avec leur historique Git complet).
+- **Aspace OS Archive (`Aspace_OS_Archive`)** : Le musée et registre immuable (44 dépôts patrimoniaux classés et préservés avec leur historique Git complet).
 
 ---
 
@@ -81,12 +81,12 @@
 
 Pour inspecter l'index complet sans télécharger le contenu des sous-modules :
 ```bash
-git clone https://github.com/Amdkn/Aspace_OS_V4_Archive.git
+git clone https://github.com/Amdkn/Aspace_OS_Archive.git
 ```
 
 Pour cloner l'archive avec l'intégralité du code et de l'historique de tous les 44 dépôts :
 ```bash
-git clone --recursive https://github.com/Amdkn/Aspace_OS_V4_Archive.git
+git clone --recursive https://github.com/Amdkn/Aspace_OS_Archive.git
 ```
 
 ---
